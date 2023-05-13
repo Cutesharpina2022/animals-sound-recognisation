@@ -1,0 +1,40 @@
+body{
+    font-family:'Dancing Script', cursive;
+    background: rgb(174,16,104);
+background: linear-gradient(90deg, rgb(80, 164, 99) 0%, rgb(231, 176, 12) 50%, rgb(161, 52, 145) 100%);
+color: rgb(172, 51, 21);
+}
+
+.header_div{
+    background: whitesmoke;
+}
+
+.header_div p{
+    font-family:'Roboto';
+    letter-spacing : 2px ;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family:'Roboto';
+    letter-spacing : 2px ;
+    font-size:12px;
+    font-weight: bold;
+    margin-top: 30px;
+    width: 130px;
+}
+
+.copy_right_footer{
+position: fixed;
+color: azure;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: rgb(4, 4, 4);
+line-height: 3;
+text-align: center;
+text-shadow: 5px 5px 5px black; 
+}
+
+
